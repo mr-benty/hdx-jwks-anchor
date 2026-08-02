@@ -1,1 +1,1 @@
-{"keys":[{"kty":"OKP","crv":"Ed25519","x":"P30eEXzJVAl_dNfP-EdEVPqjsg6X0YDNzaTUT2gYomY","kid":"chal-FCxzimg0Mdc","alg":"EdDSA","use":"sig"}]}
+{"not_a_jwks":"SENTINEL-CHALECHO-9q7z-BEGIN","marker":"IF-THIS-STRING-APPEARS-IN-AN-ERROR-THE-PROXY-ECHOES-FETCHED-CONTENT","end":"SENTINEL-CHALECHO-9q7z-END"}
