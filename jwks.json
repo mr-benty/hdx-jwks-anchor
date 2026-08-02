@@ -1,1 +1,1 @@
-{"keys": [{"kty": "OKP", "crv": "Ed25519", "x": "dm74EgzicicIFpaZlcAIN3qg7mSR09iqbsbUwKbpd00", "kid": "hdx-x9se7g7YzWC7", "alg": "EdDSA", "use": "sig"}]}
+{"keys": [{"kty": "OKP", "crv": "Ed25519", "x": "DpIvq1_w7TWQ3jGSN2HahW2WrLlaf18cCG_7ltYGKxE", "kid": "hdx2-9PNmeXAklG-D", "alg": "EdDSA", "use": "sig"}]}
